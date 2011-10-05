@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 good one sorry da.will see
+=======
+make it good
+>>>>>>> temp
